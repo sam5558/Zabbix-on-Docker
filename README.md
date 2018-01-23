@@ -11,4 +11,7 @@ All you have to do is edit file and replace "password" with a random password. A
 Then chmod the file to make it executable. Then run :
 ./zabbix-test
 
+Now you should be able to access by typing: yourinternalip:8080/zabbix
+Credentials: zabbix / password (better change it)
+
 Thanks MonitoringArtist for the docker updated sources.
