@@ -9,7 +9,7 @@ Useful script for lazy people like myself ;)
 
 All you have to do is edit file and replace **"password"** with a random password. Also be sure to use the same password for the two docker instances this script will generate. 
 Then **chmod** the file to make it executable. Then run :
-**./zabbix-test**
+**./zabbix-test.sh**
 
 Now you should be able to access by typing: **yourinternalip:8080/zabbix**.
 
